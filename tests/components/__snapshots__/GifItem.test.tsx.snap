@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests on <GifItem /> Snapshot on <GifItem /> 1`] = `
+<div>
+  <div
+    class="h-44 w-44 rounded-md shadow-md mb-8"
+    style="opacity: 0;"
+  >
+    <h5
+      class="truncate text-white"
+    >
+      one punch man
+    </h5>
+    <img
+      alt="one punch man"
+      class="h-44 w-44 object-cover rounded-b-md"
+      src="https://www.giphy.com/anime/one-punch-man.gif"
+    />
+  </div>
+</div>
+`;
